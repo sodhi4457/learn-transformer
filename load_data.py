@@ -9,7 +9,7 @@ max_len = 20
 src = 'en'
 tgt = 'it'
 split_size = 0.9
-batch_size = 20
+batch_size = 30
 
 class CustomTokenizer:
     def __init__(self,lang):
